@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sreemonghosh
+- 👋 Hi, I’m @sreemonghosh ( Sreemon Ghosh )
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning B.Tech in Electrical Engineering from NIT Sichar.
 - 💞️ I’m looking to collaborate on ...
