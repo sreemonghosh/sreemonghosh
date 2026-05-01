@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SreemonGhosh ( Sreemon Ghosh )
-- 👀 I’m interested in coding.
+- 👀 I’m interested in AI and vibe coding.
 - 🌱 I’m currently learning B.Tech in Electrical Engineering from NIT Sichar.
 - 🤖 I have just started python development.
 - 😄 Pronouns: He/Him ✨
