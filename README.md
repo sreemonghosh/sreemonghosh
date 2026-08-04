@@ -5,9 +5,9 @@
 
 # 👋 About Me
 
-I'm an Electrical Engineering undergraduate at **National Institute of Technology Silchar**, passionate about solving real-world problems through **Data Analytics, Artificial Intelligence, Machine Learning, and Software Development**.
+I'm an Electrical Engineering undergraduate at **National Institute of Technology Silchar**, passionate about solving real-world problems through **Data Analytics and Artificial Intelligence**.
 
-I enjoy transforming raw data into meaningful insights, building intelligent applications, and continuously learning modern technologies. My interests span across **Python, SQL, Data Visualization, AI, Cloud Computing, and Full Stack Development**.
+I enjoy transforming raw data into meaningful insights, building intelligent applications, and continuously learning modern technologies. My interests span across **Python, SQL, Data Visualization and AI,**.
 
 Apart from academics, I actively participate in hackathons, technical communities, and open-source projects where I collaborate, build, and learn from developers worldwide.
 
@@ -16,6 +16,9 @@ Apart from academics, I actively participate in hackathons, technical communitie
 # 🚀 What I'm Currently Working On
 
 - 📊 Data Analytics & Visualization Projects
+- 🐍 Python Automation
+- 💻 Open Source Contributions
+
 
 # 🏆 Achievements
 
