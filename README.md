@@ -70,16 +70,15 @@ Apart from academics, I actively participate in hackathons, technical communitie
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sreemonghosh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=sreemonghosh&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sreemonghosh&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sreemonghosh&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreemonghosh&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreemonghosh&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
 </p>
 
 ---
