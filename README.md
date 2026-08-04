@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sreemon Ghosh</h1>
-<h3 align="center">Electrical Engineering Student | Data Analytics Enthusiast | AI & ML Learner | Open Source Explorer</h3>
+<h3 align="center">Electrical Engineering Student | Data Analytics Enthusiast | Open Source Explorer</h3>
 
 ---
 
@@ -28,13 +28,19 @@ Apart from academics, I actively participate in hackathons, technical communitie
 
 <p align="left">
 
-<a href="www.linkedin.com/in/sreemon-ghosh-38a07b293">
+<a href="https://www.linkedin.com/in/sreemon-ghosh-38a07b293/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="sreemonghosh98@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/sreemonghosh" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="mailto:sreemonghosh98@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 
 # 💻 Tech Stack
